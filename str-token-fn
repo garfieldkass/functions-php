@@ -1,3 +1,4 @@
+<?php
 
 function explode_tok($delims,$str) // explode() with delimiters like in strtok()
 {
