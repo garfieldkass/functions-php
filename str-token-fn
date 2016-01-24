@@ -1,5 +1,5 @@
 
-function explode_tok($delims,$str) // explode with delimiters like strtok
+function explode_tok($delims,$str) // explode() with delimiters like in strtok()
 {
   $str1=strtok($str,$delims);
   $ret=array();
