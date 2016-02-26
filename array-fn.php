@@ -1,3 +1,4 @@
+<?php
 // array functions
 
 // array_reduce for strings
